@@ -1,4 +1,4 @@
--  Hi, I’m @blud-rwlt
+-  Hi, I’m Antonio
 -  I’m interested in everything
 -  I’m currently learning python, data science with python and machine learning. (december 2024)
 -  I've learned python, now I'm on CSS and Flask (february 2025)
