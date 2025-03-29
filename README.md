@@ -1,7 +1,8 @@
 -  Hi, I’m @blud-rwlt
 -  I’m interested in everything
--  I’m currently learning python, data science with python and machine learning.
--  I've learned python, now I'm on CSS and Flask
+-  I’m currently learning python, data science with python and machine learning. (december 2024)
+-  I've learned python, now I'm on CSS and Flask (february 2025)
+-  Now, I'm coursing System Development (Java + SQL + HTML + CSS + JS)
 
 
 
