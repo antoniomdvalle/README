@@ -1,8 +1,7 @@
 -  Hi, I’m Antonio
 -  I’m interested in data science
--  Learning Java, together I'm on Python and Flask (august 2025)
--  Now, I'm coursing System Development
-
+-  Coursing System Development (from MySQL to Postman;))
+-  Also learning Python for (guess what) data and ML
 
 
 <!---
